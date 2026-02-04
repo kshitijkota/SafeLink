@@ -83,8 +83,8 @@ The frontend will connect to the backend server and display **real-time patient 
 
 ## 👥 Team
 
-* **Sampriti Saha**
 * **Kshitij Kota**
+* **Sampriti Saha**
 
 ---
 
